@@ -22,6 +22,8 @@ Appropriately labels the data set with descriptive activity names.
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Good luck!
 
+
+
 Steps to Reproduce This Project
 
 a-Open the R script run_analysis.r using a text editor.
@@ -30,8 +32,11 @@ b-Change the parameter of the setwd function call to the working directory/folde
 
 c-Run the R script run_analysis.r. It calls the R Markdown file, run_analysis.Rmd, which contains the bulk of the code.
 
+
 Outputs
 
 1-Tidy dataset file DatasetHumanActivityRecognitionUsingSmartphones.txt
 
-2-Codebook file codebook.md
+2-Link to my Github repository with my script for performing the analysis
+
+3-Codebook file codebook.md
